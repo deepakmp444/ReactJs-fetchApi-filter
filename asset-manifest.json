@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJs-fetchApi-filter/static/css/main.27df069b.chunk.css",
+    "main.js": "/ReactJs-fetchApi-filter/static/js/main.e0fac62b.chunk.js",
+    "main.js.map": "/ReactJs-fetchApi-filter/static/js/main.e0fac62b.chunk.js.map",
+    "runtime-main.js": "/ReactJs-fetchApi-filter/static/js/runtime-main.e81ee7d0.js",
+    "runtime-main.js.map": "/ReactJs-fetchApi-filter/static/js/runtime-main.e81ee7d0.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/ReactJs-fetchApi-filter/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/ReactJs-fetchApi-filter/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/ReactJs-fetchApi-filter/index.html",
+    "precache-manifest.e3248ce97900ef35aa27a50bc5a91f93.js": "/ReactJs-fetchApi-filter/precache-manifest.e3248ce97900ef35aa27a50bc5a91f93.js",
+    "service-worker.js": "/ReactJs-fetchApi-filter/service-worker.js",
+    "static/css/main.27df069b.chunk.css.map": "/ReactJs-fetchApi-filter/static/css/main.27df069b.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/ReactJs-fetchApi-filter/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81ee7d0.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.27df069b.chunk.css",
+    "static/js/main.e0fac62b.chunk.js"
+  ]
+}
